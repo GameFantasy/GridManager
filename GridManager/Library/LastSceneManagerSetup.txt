@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sence/mian.unity
+  isLoaded: 1
+  isActive: 1
